@@ -1,0 +1,15 @@
+
+.section-one {
+    background: url(images/imgOne.jpg) center center/cover;
+    height: 100vh;
+}
+nav {
+    z-index: 999;
+}
+
+.btn-delet {
+    background-color: #FF0000;
+}
+.btn-edit{
+    background-color: #4748BA;
+}
